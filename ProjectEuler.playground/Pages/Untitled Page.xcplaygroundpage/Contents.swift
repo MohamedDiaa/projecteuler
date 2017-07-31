@@ -5,11 +5,11 @@ import UIKit
 var str = "Hello, playground"
 
 //Problem 43
-//SubString Divisibility 
+//SubStrinåg Divisibility 
 
 
 //PanDigital numbers 
-
+/*
 let panDigitalCount = 9*8*7*6*5*4*3*2*1
 
 // [1] [2] [3] [4] [5] [6] [7] [8] [9]
@@ -26,3 +26,5 @@ let date2 = NSDate()
 
 let timeInterval = date1.timeIntervalSinceDate(date2)
 print(timeInterval/(60))
+
+*/
